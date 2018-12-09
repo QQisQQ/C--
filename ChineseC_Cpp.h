@@ -33,6 +33,7 @@
 #define 字符串 string
 #define 如果 if
 #define 不然 else
+#define 里的 ::
 #define 【 [
 #define 】 ]
 #define ， ,
